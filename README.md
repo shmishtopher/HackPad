@@ -1,5 +1,5 @@
-[capture_1]: ./assets/capture_1.png
-[capture_2]: ./assets/capture_2.png
+[capture_1]: https://github.com/shmishtopher/HackPad/blob/master/assets/capture_1.PNG
+[capture_2]: https://github.com/shmishtopher/HackPad/blob/master/assets/capture_2.PNG
 
 # Building Chrome Extensions
 Building Chrome extensions is super easy!  This workshop will guide you through the setup, development, and distribution of a Chrome extension.
