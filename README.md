@@ -165,5 +165,5 @@ Now our notebook is loaded whenever the extension is activated and saved on ever
 ### Is Something Broken or Unclear?  Have a Suggestion?
 Email me at `shmish90@gmail.com` or message me in the HackClub slack `@shmishtopher`
 ### Need to see some working code?
-1. The source for this extension [here].(https://github.com/shmishtopher/HackPad)
+1. The source for this extension [here](https://github.com/shmishtopher/HackPad)
 2. The source for one of my published extensions [here](https://github.com/shmishtopher/CoinBlock)
